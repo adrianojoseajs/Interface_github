@@ -18,8 +18,6 @@ UI Clone - Github
 
 ## Participants
 
-[<img src="" width="75px;"/>](https://github.com/adrianojoseajs)
-
 [Adriano José](https://github.com/adrianojoseajs)
 
 ## Techs
